@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **React JS,Next Js,Vue Js,Laravel PHP,GraphQL**
 
-- 📫 How to reach me **pknuek@gmail.com**
-
-- ⚡ Fun fact **Self Taught Developer**
+- 📫 How to reach me **kenpetersm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
