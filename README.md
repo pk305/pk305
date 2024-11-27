@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Scala, Python Django,Java Bootspring**
 
-- 👯 I’m looking to collaborate on [affrimall seller website](seller.affrimall.com)
-
 - 👨‍💻 All of my projects are available at [pk305.github.io/web](pk305.github.io/web)
 
 - 💬 Ask me about **React JS,Next Js,Vue Js,Laravel PHP,GraphQL**
