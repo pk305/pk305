@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk305&label=Profile%20views&color=0e75b6&style=flat" alt="pk305" /> </p>
 
-- 🔭 I’m currently working on [affrimall ecommerce website](affrimall.com)
+- 🔭 I’m currently working on [affrimall e-commerce website](affrimall.com)
 
 - 🌱 I’m currently learning **Scala, Python Django,Java Bootspring**
 
