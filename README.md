@@ -14,7 +14,7 @@
 - 🌱 I'm continuously learning and improving across the entire stack
 - 💬 Ask me about **React, Node.js, REST APIs, databases, and system design**
 - 🚀 I enjoy turning ideas into real products — from architecture to deployment
-- 📫 Reach me at **kenpetersm@gmail.com** or **pknuek@gmail.com**
+- 📫 Reach me at **kmwanzi67@gmail.com** or **kenpetersm@gmail.com**
 
 ---
 
